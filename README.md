@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Maria juliana Martinez -
   Camila Rivera -
   Nixon Padilla
